@@ -1,4 +1,4 @@
-<img src="assets/hero.svg" width="100%" alt="A terminal styled like an AI coding agent. Welcome panel for Theeraphat Chueanokkhum, Chaiyaphum, Thailand, with a spinning ASCII stack of four layers. About: full-stack and platform engineer who builds software from the interface down to the cluster. Now: building OCM, a nationwide oil-control platform for Thailand's Excise Department. Layers: Interface, Services, Data, Platform.">
+<img src="assets/hero.svg" width="100%" alt="Theeraphat Chueanokkhum, full-stack and platform engineer in Chaiyaphum, Thailand. I build software from the interface down to the cluster, and stay to run it. Now: OCM, a nationwide oil-control platform for Thailand's Excise Department. An animated request travels down four layers and back: Interface, Services, Data, Platform.">
 
 [Portfolio](https://me.th33raphat.dev/) · [CV](https://me.th33raphat.dev/cv.pdf) · [LinkedIn](https://linkedin.com/in/theeraphat-chueanokkhum) · [Email](mailto:th33raphat@gmail.com)
 
@@ -21,7 +21,7 @@ I stay with the software after launch: incident triage, root-cause reports, rele
 
 I run Claude Code across the whole delivery path and package what works as skills, so the agent follows the same steps I would: spec and tests before code, a scored design review, QA evidence, and infra changes closed with a report.
 
-<a href="https://github.com/th3r-dev/th3-skills"><img src="assets/agents.svg" width="100%" alt="A terminal listing the th3-skills a coding agent uses, grouped by stage. Plan: poc-spec-driven-builder. Design: design-core, design-flow. Build: prompt-cache-kit, thai-mock-naming. Test: qa, dependency-vuln-explainer. Ship: devops, doc-style-builder, pdf-operations, podman-disk-reclaim."></a>
+<a href="https://github.com/th3r-dev/th3-skills"><img src="assets/agents.svg" width="100%" alt="Agent skills from th3-skills along a track from idea to production. Plan: poc-spec-driven-builder. Design: design-core, design-flow. Build: prompt-cache-kit, thai-mock-naming. Test: qa, dependency-vuln-explainer. Ship: devops, doc-style-builder, pdf-operations, podman-disk-reclaim."></a>
 
 ### Selected work
 
